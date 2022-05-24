@@ -218,6 +218,13 @@
         "description": "",
         "image": "02.jpg",
         "url": "https://github.com/ifrimenco/Hospital-Scheduler"
+      },
+      {
+        "title": "Personal Website",
+        "category": "",
+        "description": "",
+        "image": "03.jpg",
+        "url": "http://www.alexifrimen.co/"
       }
     ]
   }
