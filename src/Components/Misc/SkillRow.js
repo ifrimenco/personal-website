@@ -25,7 +25,7 @@ class SkillRow extends Component {
 
         return (
             <li key={index}>
-                <span className={className + " btn-group"}>{enumSkills}</span>
+                <span className={className + " btn-group flex-wrap"}>{enumSkills}</span>
                 <em>{skillName}</em>
             </li>
         );

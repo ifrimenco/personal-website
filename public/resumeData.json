@@ -59,6 +59,12 @@
     ],
     "work": [
       {
+        "company": "Skaylink",
+        "title": "DevOps Engineer",
+        "years": "April 2022 - May 2022",
+        "description": "Currently building infrastructures for the Farming 4.0 Use Case of the AI-SPRINT project, which is backed up by the european comission"
+      },
+      {
         "company": "delaware",
         "title": "Full Stack Developer",
         "years": "April 2022 - May 2022",
