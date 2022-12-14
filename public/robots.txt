@@ -1,0 +1,5 @@
+User-agent: * 
+Disallow: /cpanel/
+
+
+Sitemap: http://www.alexifrimen.co/sitemap.xml
